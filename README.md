@@ -30,7 +30,7 @@
 
 ### What I'm working on next
 
-- **Hopefully improving my tinyrenderer.
+- **Hopefully improving my tinyrenderer.**
 - **A small database**: a SQLite-like engine, then a rewrite in modern C++ with a real parser, a buffer pool and a WAL.
 - **ML foundations**: learning theory and the systems side of ML.
 
