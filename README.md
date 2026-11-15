@@ -30,8 +30,7 @@
 
 ### What I'm working on next
 
-- **A parallel graph engine in C++**: CSR storage, BFS, PageRank, connected components, triangle counting, with benchmarks.
-- **A vector + graph retrieval engine**: my own HNSW index, and an evaluation of GraphRAG against plain vector search.
+- **Hopefully improving my tinyrenderer.
 - **A small database**: a SQLite-like engine, then a rewrite in modern C++ with a real parser, a buffer pool and a WAL.
 - **ML foundations**: learning theory and the systems side of ML.
 
