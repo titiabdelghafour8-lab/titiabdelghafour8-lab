@@ -5,7 +5,7 @@
 <h2 align="center">Hi, I'm Abdelghafour Titi</h2>
 
 <p align="center">
-  Engineering student at <b>ENSIAS</b> (Rabat, Morocco), passionate about learning new things, and it seems like you can't run out of things to learn, so here I am learning whenever I can.
+  Engineering student at <b>ENSIAS</b> (Rabat, Morocco).
 </p>
 
 <p align="center">
