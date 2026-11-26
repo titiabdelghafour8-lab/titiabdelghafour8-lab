@@ -23,7 +23,7 @@
 |---|---|
 | [**titirenderer**](https://github.com/titiabdelghafour8-lab/titirenderer) | A software rasterizer written from scratch in C++23: my own math library, clip-space clipping, a z-buffer. No graphics API, just pixels. |
 | [**gamedev-journey**](https://github.com/titiabdelghafour8-lab/gamedev-journey) | Notes and projects from learning game development, from low-level C++ up to Godot. |
-| [**neetcode-submissions**](https://github.com/titiabdelghafour8-lab/neetcode-submissions) | About 120 NeetCode problems solved: arrays, graphs, DP, and the rest. |
+| [**neetcode-submissions**](https://github.com/titiabdelghafour8-lab/neetcode-submissions) | Neetcode 150 problems solved: arrays, graphs, DP, and the rest. |
 | [**simulation-de-vote-multi-agents**](https://github.com/titiabdelghafour8-lab/simulation-de-vote-multi-agents) | A multi-agent simulation of voting systems. |
 
 ### What I'm working on next
